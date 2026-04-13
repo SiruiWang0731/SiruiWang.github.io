@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## 👋 About Me
 
-I am a PhD student at the Technical University of Munich (TUM), working on **Generative AI**, with a focus on remote sensing and geospatial intelligence.
+I am a PhD student at the Technical University of Munich (TUM), working on **Generative AI**, with a focus on remote sensing and foundation models.
 
 ---
 
