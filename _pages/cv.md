@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* **Ph.D., Technical University of Munich**, Generative AI for high-dimensional data  
+* **Ph.D., Technical University of Munich**, Data Science in Earth Observation
   05/2024 – present  
 * **M.Sc., Technical University of Munich**, Data Science and Remote Sensing (ESPACE)
   10/2021 – 03/2024  
-* **B.Sc., Shandong University of Science and Technology**, Remote Sensing Science and Technology, GPA: 1.9 (Top 8%)  
+* **B.Sc., Shandong University of Science and Technology**, Remote Sensing Science and Technology, 
   09/2017 – 07/2021  
 
 ---
@@ -27,19 +27,21 @@ Work experience
   05/2024 – 07/2025  
   * Developed deep neural networks for spatiotemporal environmental modeling  
   * Studied generalization and transferability across geographic domains  
-  * Applied data-driven modeling to high-dimensional geospatial data  
 
-* **Master’s Thesis**, DLR & Technical University of Munich  
+* **Master’s Thesis**, Technical University of Munich & DLR
   05/2023 – 12/2023  
   * Graph neural network framework for hyperspectral classification  
   * Spectral-spatial graph construction method  
-  * Achieved state-of-the-art performance vs GNN baselines  
 
 * **Research Assistant**, Data Science in Earth Observation, TUM  
   10/2022 – 03/2024  
   * Graph-based deep learning for spatiotemporal flood detection  
-  * Representation learning for large-scale geospatial datasets  
-
+  * Representation learning for large-scale geospatial datasets
+    
+* **Teaching Assistant**, Photogrammetry and Remote Sensing, TUM  
+  10/2023 – 02/2024  
+  * Conduct lectures for scientific paper writing and effective presentation techniques
+  * Offer personalized tutoring sessions to guide individuals in mastering the principles and techniques of 3D building model reconstruction
 ---
 
 Skills
@@ -63,11 +65,6 @@ Publications
   {% include archive-single-cv.html %} 
   {% endfor %}</ul> 
   
-Talks 
-====== 
-<ul>{% for post in site.talks reversed %} 
-  {% include archive-single-talk-cv.html %} 
-  {% endfor %}</ul> 
   
 Teaching 
 ====== 
@@ -76,7 +73,7 @@ Teaching
   {% endfor %}</ul>
 ---
 
-Service and leadership
+Service and awards
 ======
 * **Journal Reviewer**
   * IEEE Transactions on Image Processing (TIP)
