@@ -6,11 +6,24 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
+
+<div style="display: flex; gap: 15px; align-items: flex-start;">
+
+  {% if post.image %}
+    <img src="{{ post.image }}" style="width:120px; border-radius:6px;">
+  {% endif %}
+
+  <div>
+    <h3>{{ post.title }}</h3>
+    <p>{{ post.venue }}, {{ post.date | date: "%Y" }}</p>
+    <p>{{ post.excerpt }}</p>
+
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">[PDF]</a>
+    {% endif %}
+  </div>
+
+</div>
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
