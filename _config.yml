@@ -6,7 +6,7 @@ description: "PhD student at TUM | Generative AI, Remote Sensing"
 url: "https://SiruiWang0731.github.io"
 baseurl: ""
 
-repository: "SiruiWang0731/SiruiWang0731.github.io"
+repository: "SiruiWang0731/page"
 
 remote_theme: mmistakes/minimal-mistakes
 
