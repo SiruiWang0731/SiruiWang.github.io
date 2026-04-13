@@ -8,4 +8,5 @@ date: 2025-05-05
 venue: "IEEE Transactions on Geoscience and Remote Sensing"
 paperurl: "https://ieeexplore.ieee.org/abstract/document/10988682"
 citation: "Wang, S., Braham, N. A. A., & Zhu, X. X. (2025). Weak-strong graph contrastive learning neural network for hyperspectral image classification. IEEE Transactions on Geoscience and Remote Sensing."
+image: "/images/profile.png"
 ---
