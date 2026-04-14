@@ -1,6 +1,7 @@
 ---
 title: "Weak–Strong Graph Contrastive Learning Neural Network for Hyperspectral Image Classification"
 collection: publications
+authors: "**Sirui Wang**, Nassim Ait Ali Braham, Xiao Xiang Zhu"
 category: manuscripts
 permalink: /publication/2025-tgrs-wsgcl
 excerpt: "Graph contrastive learning framework for hyperspectral image classification with strong performance over GNN baselines."
