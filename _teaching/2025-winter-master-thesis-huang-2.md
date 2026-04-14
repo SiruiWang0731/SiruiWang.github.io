@@ -1,5 +1,5 @@
 ---
-title: "Master Thesis Supervision - Wenlin Huang"
+title: "Master Thesis Supervision"
 collection: teaching
 type: "Master thesis supervision"
 permalink: /teaching/2025-winter-master-thesis-huang
