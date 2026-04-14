@@ -45,7 +45,11 @@
             <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
           </p>
         {% endif %}
-
+        {% if post.authors %}
+          <p style="margin:2px 0; font-size:0.95em;">
+            {{ post.authors | markdownify | remove: "<p>" | remove: "</p>" }}
+          </p>
+        {% endif %}
         <!-- 摘要 -->
         {% if post.excerpt %}
           <p style="margin:5px 0;">
