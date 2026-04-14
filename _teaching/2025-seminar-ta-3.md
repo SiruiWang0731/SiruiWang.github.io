@@ -8,5 +8,5 @@ date: 2025-04-01
 location: "Munich, Germany"
 ---
 
-Co-supervised a remote sensing seminar focused on a survey of generative models and their applications in geospatial data analysis.
+Co-supervised a student for remote sensing seminar focused on a survey of generative models and their applications in geospatial data analysis.
 
