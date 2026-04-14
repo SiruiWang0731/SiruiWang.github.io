@@ -8,19 +8,5 @@ date: 2025-04-01
 location: "Munich, Germany"
 ---
 
-Supervised a remote sensing seminar focused on a survey of generative models and their applications in geospatial data analysis.
+Co-supervised a remote sensing seminar focused on a survey of generative models and their applications in geospatial data analysis.
 
-#Heading 1
-#======
-
-#Guided students in reviewing literature on generative models, including diffusion models and foundation models.
-
-#Heading 2
-#======
-
-#Provided feedback on research structure, critical analysis, and scientific writing.
-
-%Heading 3
-%======
-
-%Supported seminar presentations and discussions on generative AI in remote sensing.
