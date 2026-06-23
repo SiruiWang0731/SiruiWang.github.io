@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D., Technical University of Munich**, Data Science in Earth Observation
-  05/2024 – present  
+  present  
 * **M.Sc., Technical University of Munich**, Data Science and Remote Sensing (ESPACE)
   10/2021 – 03/2024  
 * **B.Sc., Shandong University of Science and Technology**, Remote Sensing Science and Technology, 
